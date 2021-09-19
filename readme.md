@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kholilrnm/ban-mas)
 
 # Ban-Mas (Bantuan Masyarakat)
--
+- Bantuan Masyarakat
 
 ## Tools / Frameworks
 | Bagian | Tools yang digunakan |
@@ -27,4 +27,4 @@
         <img src="/folder_screenshot/sc3.jpg" width="500" height="300">
 </p>
 
-### Kholilul Rachman N.M
+### By : Kholilul Rachman N.M

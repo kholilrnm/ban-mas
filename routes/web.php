@@ -19,4 +19,3 @@ Route::get('/', 'BantuanController@index');
 Route::get('bantuan', 'BantuanController@bantuan');
 Route::get('penerima', 'PenerimaController@penerima');
 
-// Route::get('data_penerima/get_data_penerima', 'PenerimaController@show');
